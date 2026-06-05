@@ -1,0 +1,13 @@
+# Never commit source data or secrets to this public repo — only the encrypted index.html
+*.xlsx
+*.xls
+*.csv
+*.json
+*.py
+*.mp4
+flash_data.json
+report_password.txt
+*password*
+.env
+.DS_Store
+Thumbs.db
